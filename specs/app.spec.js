@@ -1,4 +1,6 @@
 import { nameIsValid, fullTrim, getTotal } from '../src/app.js'
+import {describe, expect, test} from '@jest/globals'
+
 //домашнее задание 4
 describe('nameIsValid', () => {
     test('it loads without error', () => {
