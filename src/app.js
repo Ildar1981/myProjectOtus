@@ -40,3 +40,4 @@
      return total - total * discount / 100;
  }
 
+домашнее задание по созданию функции getScores
