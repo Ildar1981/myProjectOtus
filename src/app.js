@@ -40,16 +40,4 @@
      return total - total * discount / 100;
  }
 
- const scores = {
-    Olga: 100,
-    Anna: 160,
-    Ivan: 130
-  };
-  
-  function getScores(scores) {
-    let sum = 0;
-  for (let key in scores) {
-    sum += scores[key];
-    }
-  }
-  getScores(scores)
+ 
