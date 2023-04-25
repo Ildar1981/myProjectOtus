@@ -51,6 +51,6 @@
   for (let key in scores) {
     sum += scores[key];
     }
-    console.log(scores)
+    console.log(sum)
   }
   getScores(scores)
